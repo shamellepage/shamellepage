@@ -5,7 +5,7 @@ href="www.linkedin.com/in/shamelle-page">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/shamellepage/SQL_Techniques)
 
 <h2>📚Certifications:</h2>
 
